@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "BLUE",
   "base_artist": "ZEROBASEONE",
-  "createdAt": "2026-03-15T16:24:06.765268Z",
+  "createdAt": "2026-03-26T12:29:05.512751Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -163,6 +163,15 @@
       "artist": "ZEROBASEONE",
       "has_synced": false,
       "path": "select/pl_01_BLUE_ZEROBASEONE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "BLUE",
+      "artist": "ZEROBASEONE",
+      "has_synced": false,
+      "path": "select/localdb_01_BLUE_ZEROBASEONE.txt",
+      "repo_name": "2hwiRN8t8Ok"
     }
   ]
 }
